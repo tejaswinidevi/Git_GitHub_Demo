@@ -9,3 +9,5 @@ This repository is to perform hands-on of some basic git commands
 #This is a line added in main branch to demonstrate git rebasing
 
 #This is a line added to demo git rebasing
+
+#This is a new line added
