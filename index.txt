@@ -1,3 +1,5 @@
 This is a dummy text file used to demonstrate github add command and commit command
 
 This is a new line added
+
+This is a line added to demo git rebasing
