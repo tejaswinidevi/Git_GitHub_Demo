@@ -1,0 +1,3 @@
+this is a file to demo git reset
+
+this is a line added to demo mixed reset
